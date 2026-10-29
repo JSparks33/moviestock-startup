@@ -1,1 +1,2 @@
 # moviestock-startup
+MovieStock is an integrated media streaming platform that provides unlimited access to all movies and shows from around the world for movie enthusiasts and international audiences to eliminate media fragmentation. Our platform provides a global unified search catalog, cross-platform compatibility, and unlimited access to worldwide content. By combining different kinds of streaming fragmentations into one portal, MovieStock eliminates switching fatigue and saves you 2-3 hours of browsing time and cuts costs of other streaming services by more than 50%.
