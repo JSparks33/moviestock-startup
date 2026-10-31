@@ -1,5 +1,5 @@
-- **Global Unified Search Catalog:** centralized search engine that unifies movies and tv shows world-wide in a single portal.
-- **Cross-compatibility:** streaming access available on all platforms (desktop, mobile device, game console, smart tv) and doesn't affect data usage or progress.
+- **Global Unified Search Catalog:** Centralized search engine that unifies movies and tv shows world-wide in a single portal.
+- **Cross-compatibility:** Streaming access available on all platforms (desktop, mobile device, game console, smart tv) and doesn't affect data usage or progress.
 - **Cost Optimization:** Slashes the prices of the use of multiple streaming services by 50%.
-- **Categorization:** search engine can be filtered not only by genre but also by the countries that the movies/tv shows originated from.
-- **Watch-party:** able to create a digital theater with you and others (friends, family) to watch altogether online
+- **Categorization:** Search engine can be filtered not only by genre but also by the countries that the movies/tv shows originated from.
+- **Watch-party:** Able to create a digital theater with you and others (friends, family) to watch altogether online
